@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(238, 220, 194);
+    text-align: center;
+    line-height: 15 px
+}
+h1   {
+    text-shadow: 2px 2px 2px rgb(46, 53, 156), 2px 2px 1px red;
+    letter-spacing: 2px;
+    color: rgb(24, 126, 32); 
+    font-size: 50px;
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    padding: 10px;
+   
+  }
+
+ 
